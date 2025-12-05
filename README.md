@@ -1,2 +1,4 @@
-# PSac
-**PSac (Private Secure Anonymous Connection)** is a modern solution for anonymous and secure internet access. The project combines layered routing, traffic encryption, and support for private bridges, providing maximum protection for your network.
+# Holy crap, its PSac
+## Passive Scale Access Circuit (PSac)
+### What are you expecting?
+#### Work in progress!
